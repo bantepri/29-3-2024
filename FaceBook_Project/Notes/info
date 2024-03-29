@@ -1,0 +1,7 @@
+Base class > Annotations TestNG
+Utility Method  > Scroll window and  java script related code
+JavaScript Util > 
+ActionUtil
+
+src/test/java > main Test script which we want toexecute
+src/main/java> base class utilty class
